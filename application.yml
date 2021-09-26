@@ -1,2 +1,2 @@
-db:
-  connection:connection-string
+service.product.url:
+  http://localhost:9000/products/getAllProducts
