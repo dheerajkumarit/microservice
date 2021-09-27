@@ -1,1 +1,2 @@
-a
+service.product.url:
+  http://localhost:9001/products/getAllProducts
